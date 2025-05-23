@@ -43,7 +43,7 @@ Each folder in this repo covers one feature with:
 To start exploring:
 
 ```bash
-git clone https://github.com/your-username/react-19-learning.git
+git clone https://github.com/mrsaffu/React-New-Features.git
 cd react-19-learning
 npm install
 npm run dev
